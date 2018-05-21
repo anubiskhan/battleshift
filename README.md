@@ -167,9 +167,9 @@ cd battleshift_spec_harness
 
 - In the command line tab copy and paste the export variables.
 ```
-export BATTLESHIFT_API_KEY=<API-KEY>
+export BATTLESHIFT_API_KEY=RnXQmEvtQj9JCQWOwL210w
 export BATTLESHIFT_EMAIL=test1@test.com
-export BATTLESHIFT_OPPONENT_API_KEY=<API-KEY>
+export BATTLESHIFT_OPPONENT_API_KEY=THh-kLaFaR-kZMl6o7MGZQ
 export BATTLESHIFT_OPPONENT_EMAIL=test2@test.com
 ```
 
